@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     borderRadius : 40,
   },
   disabledButton : {
-    backgroundColor : '#a9a9a9',
+    backgroundColor : '#c0c0c0',
     width : 80,
     height : 80,
     justifyContent : 'center',
