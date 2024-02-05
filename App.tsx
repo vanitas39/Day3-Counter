@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
+//const a=10
 
 export default function App() {
 
@@ -92,7 +93,7 @@ const styles = StyleSheet.create({
     borderRadius : 40,
   },
   disabledButton : {
-    backgroundColor : '#c0c0c0',
+    backgroundColor : '#a9a9a9',
     width : 80,
     height : 80,
     justifyContent : 'center',
